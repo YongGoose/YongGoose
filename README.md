@@ -3,7 +3,6 @@
 ```json
 {
   "name": "YongjunHong",
-  "club": "LikeLion At SCH (Core Member)",
   "studying": ["JPA", "test-driven development", "Domain-Driven Design"],
   "blog": "https://solution-is-here.tistory.com",
   "dev": {
