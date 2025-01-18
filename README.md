@@ -1,6 +1,6 @@
 ## A passionate developer who loves coding!
 
-I'm Junior backend engineer and open source contributor(my hobby) on `spring-boot`, `JUnit5`, `naver/fixture-monkey`, and more.  
+I'm Junior backend engineer and open source contributor(my hobby) on `JUnit5`, `spring-boot`, `naver/fixture-monkey`, and more.  
 
 I enjoy collaborating on projects, sharing knowledge, and continuously learning new technologies to improve my skills.  
 
