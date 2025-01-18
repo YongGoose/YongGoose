@@ -4,8 +4,8 @@ I'm Junior backend engineer and open source contributor(my hobby) on `spring-boo
 
 I enjoy collaborating on projects, sharing knowledge, and continuously learning new technologies to improve my skills.  
 
-Recently, I’ve been particularly interested in `test code`.  
-Test code is not only for validation; it also helps other developers understand how to use my code and serves as a guide for efficient refactoring, making it crucial for maintaining high-quality software.
+Recently, I’ve been particularly interested in [**Test code**](https://www.slideshare.net/slideshow/2024-09-24-comming-soon/271981415).  
+Test code is not only for validation! it also helps other developers understand how to use my code and serves as a guide for efficient refactoring, making it crucial for maintaining high-quality software.
 
 ## Open Source Contributions
 - [JUnit5](https://github.com/junit-team/junit5/issues?q=is%3Apr+is%3Aopen+author%3AYongGoose)
@@ -24,6 +24,8 @@ Test code is not only for validation; it also helps other developers understand 
   - Refactor existing `tox test` to pytest [#225](https://github.com/fosslight/fosslight_dependency_scanner/pull/225)
   - Change `SCANOSS Invocation Method` from Command Line to Library Function [#178](https://github.com/fosslight/fosslight_source_scanner/pull/178)
   - Add `simple_mode parameter` to CoverItem constructor [#108](https://github.com/fosslight/fosslight_scanner/pull/108)
+- [google/google-api-java-client-services](https://github.com/googleapis/google-api-java-client-services/issues?q=is%3Aissue%20author%3AYongGoose)
+  - Getting to many `push notifications`, Is there a way to receive them only once? [#20532](https://github.com/googleapis/google-api-java-client-services/issues?q=is%3Aissue%20author%3AYongGoose)
  
 ## Recent blog posts (External blog)
 
