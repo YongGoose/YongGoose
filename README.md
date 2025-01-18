@@ -1,8 +1,7 @@
 ## A passionate developer who loves coding!
 
 I'm Junior backend engineer and open source contributor(my hobby) on `JUnit5`, `spring-boot`, `naver/fixture-monkey`, and more.  
-
-I enjoy collaborating on projects, sharing knowledge, and continuously learning new technologies to improve my skills.  
+Enjoy collaborating on projects, sharing knowledge, and continuously learning new technologies to improve my skills.  
 
 Recently, I’ve been particularly interested in [**Test code**](https://www.slideshare.net/slideshow/2024-09-24-comming-soon/271981415).  
 Test code is not only for validation! it also helps other developers understand how to use my code and serves as a guide for efficient refactoring, making it crucial for maintaining high-quality software.
