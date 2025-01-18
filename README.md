@@ -12,7 +12,7 @@ Test code is not only for validation! it also helps other developers understand 
   - Implement Parallel Method Execution in JUnit-Vintage engine [#4242](https://github.com/junit-team/junit5/pull/4242)
   - Document that `AnnotationSupport.isAnnotated()` does not find repeatable annotations [#4243](https://github.com/junit-team/junit5/pull/4243)
   - Support `parallelization` in junit-vintage-engine converter [#4135](https://github.com/junit-team/junit5/pull/4135)
-  - Implement `include` and `exclude` filtering when calling registerAutoDetectedExtensions in MutableExtensionRegistry [#4120](https://github.com/junit-team/junit5/pull/4120)
+  - Implement `include` and `exclude` filtering when calling registerAutoDetectedExtensions [#4120](https://github.com/junit-team/junit5/pull/4120)
   - Add include matching on ClassNamePatternFilterUtils [#4115](https://github.com/junit-team/junit5/pull/4115)
 - [spring-boot](https://github.com/spring-projects/spring-boot/issues?q=is%3Apr+author%3AYongGoose)
   - Ensure `DefaultErrorAttributes` adds JSON serialization safe errors [#43330](https://github.com/spring-projects/spring-boot/pull/43330)
