@@ -7,7 +7,7 @@ Test code is not only for validation! it also helps other developers understand 
 
 ## Open Source Contributions
 - [JUnit5](https://github.com/junit-team/junit5/issues?q=is%3Apr+is%3Aopen+author%3AYongGoose)
-  - Provide `mechanism` for managing resources across engines and executions [#4252](https://github.com/junit-team/junit5/pull/4252)
+  - Provide `mechanism` for managing resources across engines and executions [#4281](https://github.com/junit-team/junit5/pull/4281)
   - Implement `Parallel Method Execution` in JUnit-Vintage engine [#4242](https://github.com/junit-team/junit5/pull/4242)
   - Document that `AnnotationSupport.isAnnotated()` does not find repeatable annotations [#4243](https://github.com/junit-team/junit5/pull/4243)
   - Support `parallelization` in junit-vintage-engine converter [#4135](https://github.com/junit-team/junit5/pull/4135)
