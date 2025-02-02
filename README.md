@@ -21,6 +21,7 @@ Test code is not only for validation! it also helps other developers understand 
   - Add `register` and `select` ArbitraryBuilder by name [#1036](https://github.com/naver/fixture-monkey/pull/1036)
 - [apache-baremaps](https://github.com/apache/incubator-baremaps/issues?q=is%3Apr+is%3Aopen+author%3AYongGoose)
   - Update `Maplibre` to version 5 [#924](https://github.com/apache/incubator-baremaps/pull/924)
+  - Displaying `building numbers` [#945](https://github.com/apache/incubator-baremaps/pull/945)
 - [apache-seata](https://github.com/apache/incubator-seata/issues?q=is%3Apr+is%3Aopen+author%3AYongGoose)
   - Add `compensation handling` for `TimeoutRollbacked` and `Rollbacked` states [#7133](https://github.com/apache/incubator-seata/pull/7133)
 - [LG/fosslight](https://github.com/fosslight/fosslight_dependency_scanner/issues?q=is%3Apr+author%3AYongGoose)
