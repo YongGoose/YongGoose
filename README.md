@@ -24,6 +24,7 @@ Test code is not only for validation! it also helps other developers understand 
   - Displaying `building numbers` [#945](https://github.com/apache/incubator-baremaps/pull/945)
 - [apache-seata](https://github.com/apache/incubator-seata/issues?q=is%3Apr+is%3Aopen+author%3AYongGoose)
   - Add `compensation handling` for `TimeoutRollbacked` and `Rollbacked` states [#7133](https://github.com/apache/incubator-seata/pull/7133)
+  - Catch `SQLIntegrityConstraintViolationException` and handle rollback [#7135](https://github.com/apache/incubator-seata/pull/7135)
 - [LG/fosslight](https://github.com/fosslight/fosslight_dependency_scanner/issues?q=is%3Apr+author%3AYongGoose)
   - Refactor existing `tox test` to pytest [#225](https://github.com/fosslight/fosslight_dependency_scanner/pull/225)
   - Change `SCANOSS Invocation Method` from Command Line to Library Function [#178](https://github.com/fosslight/fosslight_source_scanner/pull/178)
