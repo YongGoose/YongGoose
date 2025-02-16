@@ -23,7 +23,7 @@ Test code is not only for validation! it also helps other developers understand 
   - Displaying `boundaries` and `borders` [#948](https://github.com/apache/incubator-baremaps/pull/948) 
   - Displaying `building numbers` [#945](https://github.com/apache/incubator-baremaps/pull/945)
 - [apache-seata](https://github.com/apache/incubator-seata/issues?q=is%3Apr+is%3Aopen+author%3AYongGoose)
-  - Add `compensation handling` for `TimeoutRollbacked` and `Rollbacked` states [#7133](https://github.com/apache/incubator-seata/pull/7133)
+  - Implement scheduled handling for `end status` transaction [#7133](https://github.com/apache/incubator-seata/pull/7133)
   - treating a `unique index conflict` during rollback as a dirty write [#7135](https://github.com/apache/incubator-seata/pull/7135)
 - [LG/fosslight](https://github.com/fosslight/fosslight_dependency_scanner/issues?q=is%3Apr+author%3AYongGoose)
   - Refactor existing `tox test` to pytest [#225](https://github.com/fosslight/fosslight_dependency_scanner/pull/225)
