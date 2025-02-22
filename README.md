@@ -10,7 +10,7 @@ Test code is not only for validation! it also helps other developers understand 
   - Provide `mechanism` for managing resources across engines and executions [#4281](https://github.com/junit-team/junit5/pull/4281)
   - Implement `Parallel Method Execution` in JUnit-Vintage engine [#4242](https://github.com/junit-team/junit5/pull/4242)
   - Document that `AnnotationSupport.isAnnotated()` does not find repeatable annotations [#4243](https://github.com/junit-team/junit5/pull/4243)
-  - Support `parallelization` in junit-vintage-engine converter [#4135](https://github.com/junit-team/junit5/pull/4135)
+  - Support `parallelization` in junit-vintage-engine [#4135](https://github.com/junit-team/junit5/pull/4135)
   - Implement `include` and `exclude` filtering when calling registerAutoDetectedExtensions [#4120](https://github.com/junit-team/junit5/pull/4120)
   - Add `include matching` on ClassNamePatternFilterUtils [#4115](https://github.com/junit-team/junit5/pull/4115)
 - [spring-boot](https://github.com/spring-projects/spring-boot/issues?q=is%3Apr+author%3AYongGoose)
