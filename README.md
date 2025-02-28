@@ -46,6 +46,7 @@ Test code is not only for validation! it also helps other developers understand 
 ## Contact
 - dev.yongjunh@gmail.com
   - I enjoy having conversations. Feel free to reach out if you're interested! 😊
+- [Let's have a virtual coffee ☕](https://calendly.com/dev-yongjunh)
 - [Resume](https://docs.google.com/document/d/123z1fH5WIGu6jsyUIsWbrGQBARkHhKWEDH1T-v6xaO4/edit?tab=t.0#heading=h.iwwc988hcmwq)
 - [Tech blog](https://solution-is-here.tistory.com/)
 - [Linked.in](https://www.linkedin.com/in/yongjunh/)
