@@ -30,8 +30,6 @@ Test code is not only for validation! it also helps other developers understand 
   - Refactor existing `tox test` to pytest [#225](https://github.com/fosslight/fosslight_dependency_scanner/pull/225)
   - Change `SCANOSS Invocation Method` from Command Line to Library Function [#178](https://github.com/fosslight/fosslight_source_scanner/pull/178)
   - Add `simple_mode parameter` to CoverItem constructor [#108](https://github.com/fosslight/fosslight_scanner/pull/108)
-- [google/google-api-java-client-services](https://github.com/googleapis/google-api-java-client-services/issues?q=is%3Aissue%20author%3AYongGoose)
-  - Getting to many `push notifications`, Is there a way to receive them only once? [#20532](https://github.com/googleapis/google-api-java-client-services/issues?q=is%3Aissue%20author%3AYongGoose)
  
 ## Recent blog posts (External blog)
 - [JUnit5에 병렬화를 도입한 이야기 - 클래스 단위](https://devocean.sk.com/blog/techBoardDetail.do?ID=167270&boardType=techBlog&searchData=&searchDataMain=&page=&subIndex=&searchText=&techType=&searchDataSub=&comment=)
