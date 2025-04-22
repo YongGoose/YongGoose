@@ -15,6 +15,7 @@ Test code is not only for validation! it also helps other developers understand 
   - Implement `include` and `exclude` filtering when calling registerAutoDetectedExtensions [#4120](https://github.com/junit-team/junit5/pull/4120)
   - Add `include matching` on ClassNamePatternFilterUtils [#4115](https://github.com/junit-team/junit5/pull/4115)
 - [spring-boot](https://github.com/spring-projects/spring-boot/issues?q=is%3Apr+author%3AYongGoose)
+  - Add `fail-fast` mechanism when both management `base path` and `endpoint mapping` are set to '/' [#45251](https://github.com/spring-projects/spring-boot/pull/45251)
   - Ensure `DefaultErrorAttributes` adds JSON serialization safe errors [#43330](https://github.com/spring-projects/spring-boot/pull/43330)
 - [naver/fixture-monkey](https://github.com/naver/fixture-monkey/issues?q=is%3Apr+is%3Aopen+author%3AYongGoose)
   - Implement `Random Selection` of Register Operations When Not Using selectName [#1108](https://github.com/naver/fixture-monkey/pull/1108)
