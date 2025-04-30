@@ -21,7 +21,6 @@ Test code is not only for validation! it also helps other developers understand 
   - Remove `CompressUtil` and use `byte flag` for compression detection [#7311](https://github.com/apache/incubator-seata/pull/7311)
   - Use shared `EventLoop` for TM and RM clients to reduce thread overhead and improve performance [#7179](https://github.com/apache/incubator-seata/pull/7179)
   - Implement scheduled handling for `end status` transaction [#7133](https://github.com/apache/incubator-seata/pull/7133)
-  - treating a `unique index conflict` during rollback as a dirty write [#7135](https://github.com/apache/incubator-seata/pull/7135)
 - [apache-baremaps](https://github.com/apache/incubator-baremaps/issues?q=is%3Apr+is%3Aopen+author%3AYongGoose)
   - Displaying `boundaries` and `borders` [#948](https://github.com/apache/incubator-baremaps/pull/948) 
   - Displaying `building numbers` [#945](https://github.com/apache/incubator-baremaps/pull/945)
