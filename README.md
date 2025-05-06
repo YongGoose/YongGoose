@@ -33,11 +33,11 @@ Test code is not only for validation! it also helps other developers understand 
   - Change `SCANOSS Invocation Method` from Command Line to Library Function [#178](https://github.com/fosslight/fosslight_source_scanner/pull/178)
   - Add `simple_mode parameter` to CoverItem constructor [#108](https://github.com/fosslight/fosslight_scanner/pull/108)
  
-## Recent blog posts (External blog)
-- [JUnit5에 병렬화를 도입한 이야기 - 클래스 단위](https://devocean.sk.com/blog/techBoardDetail.do?ID=167270&boardType=techBlog&searchData=&searchDataMain=&page=&subIndex=&searchText=&techType=&searchDataSub=&comment=)
-- [다양한 시각에서 바라본 Redis - 비교](https://devocean.sk.com/blog/techBoardDetail.do?page=&query=&ID=166805&boardType=writer&searchData=kevin0928&subIndex=&idList=&pnwriterID=kevin0928&searchText=&techType=&searchDataSub=&searchDataMain=&comment=)
-- [다양한 시각에서 바라본 Redis - 특징](https://devocean.sk.com/blog/techBoardDetail.do?page=&query=&ID=166166&boardType=writer&searchData=kevin0928&subIndex=&idList=&pnwriterID=kevin0928&searchText=&techType=&searchDataSub=&searchDataMain=&comment=)
-- [다양한 시각에서 바라본 PK 생성 전략](https://devocean.sk.com/blog/techBoardDetail.do?page=&query=&ID=165948&boardType=writer&searchData=kevin0928&subIndex=&idList=&pnwriterID=kevin0928&searchText=&techType=&searchDataSub=&searchDataMain=&comment=)
+## Recent blog posts
+- [Apache Seata란?](https://solution-is-here.tistory.com/235)
+- [내가 JUnit5에 글로벌 Extension 필터링 기능을 추가한 이야기](https://solution-is-here.tistory.com/233)
+- [내가 JUnit5에 병렬화를 도입한 이야기 - 메서드 단위](https://solution-is-here.tistory.com/231)
+- [내가 JUnit5에 병렬화를 도입한 이야기 - 클래스 단위](https://solution-is-here.tistory.com/230)
 
 ## My Interests
 - Open Source Contribution
