@@ -35,6 +35,7 @@ Test code is not only for validation! it also helps other developers understand 
   - Add `simple_mode parameter` to CoverItem constructor [#108](https://github.com/fosslight/fosslight_scanner/pull/108)
  
 ## Recent blog posts
+- [Spring 관점에서 보는 Seata의 내부 통신](https://solution-is-here.tistory.com/236)
 - [Apache Seata란?](https://solution-is-here.tistory.com/235)
 - [내가 JUnit5에 글로벌 Extension 필터링 기능을 추가한 이야기](https://solution-is-here.tistory.com/233)
 - [내가 JUnit5에 병렬화를 도입한 이야기 - 메서드 단위](https://solution-is-here.tistory.com/231)
