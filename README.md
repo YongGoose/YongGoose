@@ -1,6 +1,6 @@
 ## A passionate developer who loves coding!
 
-I'm Junior backend engineer and open source contributor(my hobby) on `JUnit5`, `apache/seata`, `naver/fixture-monkey`, and more. Currently an official **committer** for `apache/seata`, and recently selected as a **GSoC`25 contributor** for a Kotlin project.  
+I'm Junior backend engineer and open source contributor(my hobby) on `JUnit5`, `apache/seata`, `naver/fixture-monkey`, and more. Currently an official **committer** for `apache/seata`, and selected as a **GSoC`25 contributor** for a Kotlin project.  
 Enjoy collaborating on projects, sharing knowledge, and continuously learning new technologies to improve my skills.  
 
 Recently, I’ve been particularly interested in [**Test code**](https://www.slideshare.net/slideshow/2024-09-24-comming-soon/271981415).  
