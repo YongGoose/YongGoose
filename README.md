@@ -1,10 +1,12 @@
-## A passionate developer who loves coding!
+## A developer passionate about learning, sharing, and building impactful software.
 
-I'm Junior backend engineer and open source contributor(my hobby) on `JUnit5`, `apache/seata`, `naver/fixture-monkey`, and more. Currently an official **committer** for `apache/seata`, and selected as a **GSoC`25 contributor** for a Kotlin project.  
+I'm a Junior backend engineer and open source contributor(my hobby) on `JUnit5`, `apache/seata`, `naver/fixture-monkey`, and more. Currently a [committer](https://people.apache.org/phonebook.html?uid=yongjunh) for `apache/seata`, and selected as a [GSoC'25 contributor](https://community.gradle.org/events/gsoc/2025/maven-central-publishing-with-new-api/) for a `Kotlin & Gradle` project.  
 Enjoy collaborating on projects, sharing knowledge, and continuously learning new technologies to improve my skills.  
 
 Recently, I’ve been particularly interested in [**Test code**](https://www.slideshare.net/slideshow/2024-09-24-comming-soon/271981415).  
-Test code is not only for validation! it also helps other developers understand how to use my code and serves as a guide for efficient refactoring, making it crucial for maintaining high-quality software.
+Test code is not just for validation-it also helps other developers understand how to use my code and serves as a guide for efficient refactoring, making it crucial for maintaining high-quality software.
+
+I'm also exploring **distributed transactions**, especially their implementation and challenges in microservices architectures. It's a complex but fascinating area, and I’ve been sharing my thoughts in recent blog posts.
 
 ## Open Source Contributions
 - [JUnit5](https://github.com/junit-team/junit5/issues?q=is%3Apr+is%3Aopen+author%3AYongGoose)
@@ -48,7 +50,6 @@ Test code is not only for validation! it also helps other developers understand 
 
 ## Contact
 - yongjunh@apache.org
-  - I enjoy having conversations. Feel free to reach out if you're interested! 😊
 - [Let's have a virtual coffee ☕](https://calendly.com/dev-yongjunh)
 - [Resume](https://docs.google.com/document/d/123z1fH5WIGu6jsyUIsWbrGQBARkHhKWEDH1T-v6xaO4/edit?tab=t.0#heading=h.iwwc988hcmwq)
 - [Tech blog](https://solution-is-here.tistory.com/)
