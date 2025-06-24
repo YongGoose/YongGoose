@@ -9,7 +9,7 @@ Test code is not just for validation-it also helps other developers understand h
 I'm also exploring **distributed transactions**, especially their implementation and challenges in microservices architectures. It's a complex but fascinating area, and I’ve been sharing my thoughts in recent blog posts.
 
 ## Open Source Contributions
-- [JUnit5](https://github.com/junit-team/junit5/issues?q=is%3Apr+is%3Aopen+author%3AYongGoose)
+- [JUnit Framework](https://github.com/junit-team/junit5/issues?q=is%3Apr+is%3Aopen+author%3AYongGoose)
   - Introduce feature flag for auto-closing `AutoCloseable` in Jupiter's `ExtensionContext.Store` [#4452](https://github.com/junit-team/junit5/pull/4452)
   - Provide `mechanism` for managing resources across engines and executions [#4281](https://github.com/junit-team/junit5/pull/4281)
   - Implement `Parallel Method Execution` in JUnit-Vintage engine [#4242](https://github.com/junit-team/junit5/pull/4242)
