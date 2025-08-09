@@ -4,7 +4,7 @@ I'm a Junior backend engineer and open source contributor(my hobby) on `JUnit5`,
 Enjoy collaborating on projects, sharing knowledge, and continuously learning new technologies to improve my skills.  
 
 Recently, I’ve been particularly interested in [**Test code**](https://www.slideshare.net/slideshow/2024-09-24-comming-soon/271981415).  
-Test code is not just for validation-it also helps other developers understand how to use my code and serves as a guide for efficient refactoring, making it crucial for maintaining high-quality software.
+Test code is not just for validation; It also helps other developers understand how to use my code and serves as a guide for efficient refactoring, making it crucial for maintaining high-quality software.
 
 I'm also exploring **distributed transactions**, especially their implementation and challenges in microservices architectures. It's a complex but fascinating area, and I’ve been sharing my thoughts in recent blog posts.
 
