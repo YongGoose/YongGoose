@@ -36,6 +36,7 @@ I'm also interested in **distributed transactions**, especially their implementa
   - Change `SCANOSS Invocation Method` from Command Line to Library Function [#178](https://github.com/fosslight/fosslight_source_scanner/pull/178)
  
 ## Recent blog posts
+- [Centralized POM Configuration Management with kotlin-pom-gradle](https://dev.to/gradle-community/centralized-pom-configuration-management-with-kotlin-pom-gradle-1kap)
 - [Spring 관점에서 보는 Seata의 내부 통신](https://solution-is-here.tistory.com/236)
 - [Apache Seata란?](https://solution-is-here.tistory.com/235)
 - [내가 JUnit5에 글로벌 Extension 필터링 기능을 추가한 이야기](https://solution-is-here.tistory.com/233)
