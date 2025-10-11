@@ -21,7 +21,7 @@ I'm also interested in **distributed transactions**, especially their implementa
   - Ensure `DefaultErrorAttributes` adds JSON serialization safe errors [#43330](https://github.com/spring-projects/spring-boot/pull/43330)
 - [spring-framework](https://github.com/spring-projects/spring-framework/issues?q=is%3Apr+is%3Aopen+author%3AYongGoose)
   - Fall back to `JDK Dynamic proxy` if `CGLIB proxy` creation fails [#35344](https://github.com/spring-projects/spring-framework/pull/35344)
-  - Prevent `reflective invocation` of private methods in web dispatcher [#35352](https://github.com/spring-projects/spring-framework/pull/35352) 
+  - Reject effectively `private handler methods` on `CGLIB proxied controllers` [#35352](https://github.com/spring-projects/spring-framework/pull/35352) 
 - [apache-seata](https://github.com/apache/incubator-seata/issues?q=is%3Apr+is%3Aopen+author%3AYongGoose)
   - Add `ChannelEventListener` support to prevent memory leaks [#7337](https://github.com/apache/incubator-seata/pull/7337)
   - Enforce account `initialization` and disable default credentials [#7261](https://github.com/apache/incubator-seata/pull/7261)
