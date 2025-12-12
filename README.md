@@ -1,5 +1,3 @@
-## A developer passionate about learning, sharing, and building impactful software.
-
 Yongjun Hong is a backend engineer at `NAVER WEBTOON` and an open-source contributor to `JUnit5`, `spring-projects`, `naver/fixture-monkey`, and more. He is currently a committer for `apache/seata` and has been selected as a GSoC'25 contributor for a Kotlin & Gradle project. He enjoys collaborating on projects, sharing knowledge, and continuously learning new technologies to improve his skills.
 
 Recently, he has been particularly interested in test code. To him, test code is not just for validation. It helps other developers understand how to use his code and serves as a foundation for efficient refactoring, making it essential for maintaining high-quality software.
