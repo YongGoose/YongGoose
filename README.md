@@ -1,12 +1,10 @@
 ## A developer passionate about learning, sharing, and building impactful software.
 
-I'm a `NAVER WEBTOON` backend engineer and open source contributor on `JUnit5`, `spring-projects`, `naver/fixture-monkey`, and more. Currently a [committer](https://people.apache.org/phonebook.html?uid=yongjunh) for `apache/seata`, and selected as a [GSoC'25 contributor](https://community.gradle.org/events/gsoc/2025/maven-central-publishing-with-new-api/) for a `Kotlin & Gradle` project.  
-Enjoy collaborating on projects, sharing knowledge, and continuously learning new technologies to improve my skills.  
+Yongjun Hong is a backend engineer at `NAVER WEBTOON` and an open-source contributor to `JUnit5`, `spring-projects`, `naver/fixture-monkey`, and more. He is currently a committer for `apache/seata` and has been selected as a GSoC'25 contributor for a Kotlin & Gradle project. He enjoys collaborating on projects, sharing knowledge, and continuously learning new technologies to improve his skills.
 
-Recently, I’ve been particularly interested in [**Test code**](https://www.slideshare.net/slideshow/2024-09-24-comming-soon/271981415).  
-Test code is not just for validation; It also helps other developers understand how to use my code and serves as a guide for efficient refactoring, making it crucial for maintaining high-quality software.
+Recently, he has been particularly interested in test code. To him, test code is not just for validation. It helps other developers understand how to use his code and serves as a foundation for efficient refactoring, making it essential for maintaining high-quality software.
 
-I'm also interested in **distributed transactions**, especially their implementation and challenges in microservices architectures. It's a complex but fascinating area, and I’ve been sharing my thoughts in recent blog posts.
+He is also interested in distributed transactions, especially their implementation and challenges within microservices architectures. It's a complex but fascinating area, and he has been sharing his thoughts through recent blog posts.
 
 ## Open Source Contributions
 - [JUnit Framework](https://github.com/junit-team/junit5/issues?q=is%3Apr+is%3Aopen+author%3AYongGoose)
@@ -43,9 +41,9 @@ I'm also interested in **distributed transactions**, especially their implementa
 - [내가 JUnit5에 병렬화를 도입한 이야기 - 메서드 단위](https://solution-is-here.tistory.com/231)
 - [내가 JUnit5에 병렬화를 도입한 이야기 - 클래스 단위](https://solution-is-here.tistory.com/230)
 
-## My Interests
-- Open Source Contribution
-- Development Talks
+## Recent Linkedin posts
+- [내 블로그가 코틀린 공식 블로그에?](https://www.linkedin.com/posts/yongjunh_gsoc-googlesummerofcode-kotlin-activity-7396529892110188544-rt83?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEdFti4BPwqNFACvr6oVR_xL4IxZGLBhfNo)
+- [Spring Framework에 기여한 이야기](https://www.linkedin.com/posts/yongjunh_reject-effectively-private-handler-methods-activity-7382958948506718208-Rbtn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEdFti4BPwqNFACvr6oVR_xL4IxZGLBhfNo)
 
 ## Contact
 - yongjunh@apache.org
