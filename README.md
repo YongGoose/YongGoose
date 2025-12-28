@@ -1,10 +1,8 @@
 ## A developer passionate about learning, sharing, and building impactful software.
 
-Yongjun Hong is a backend engineer at `NAVER WEBTOON` and an open-source contributor to `JUnit5`, `spring-projects`, `naver/fixture-monkey`, and more. He is currently a committer for `apache/seata` and has been selected as a GSoC'25 contributor for a Kotlin & Gradle project. He enjoys collaborating on projects, sharing knowledge, and continuously learning new technologies to improve his skills.
+Yongjun Hong is a backend engineer at `NAVER WEBTOON` and an open-source contributor to `JUnit5`, `spring-projects`, `naver/fixture-monkey`, and more. He is a committer for apache/seata and a GSoC '25 contributor for the Kotlin & Gradle project.
 
-Recently, he has been particularly interested in test code. To him, test code is not just for validation. It helps other developers understand how to use his code and serves as a foundation for efficient refactoring, making it essential for maintaining high-quality software.
-
-He is also interested in distributed transactions, especially their implementation and challenges within microservices architectures. It's a complex but fascinating area, and he has been sharing his thoughts through recent blog posts.
+Currently, his focus is on building `AI-powered` tools to enhance productivity. He is actively exploring Langchain4j and is dedicated to leveraging LLM integration to create high-quality applications.
 
 ## Open Source Contributions
 - [JUnit Framework](https://github.com/junit-team/junit5/issues?q=is%3Apr+is%3Aopen+author%3AYongGoose)
@@ -29,9 +27,9 @@ He is also interested in distributed transactions, especially their implementati
   - Implement `Random Selection` of Register Operations When Not Using selectName [#1108](https://github.com/naver/fixture-monkey/pull/1108)
   - Implement a `Matcher interface` to manage ArbitraryBuilders with a single variable [#1062](https://github.com/naver/fixture-monkey/pull/1062)
   - Add `register` and `select` ArbitraryBuilder by name [#1036](https://github.com/naver/fixture-monkey/pull/1036)
-- [LG/fosslight](https://github.com/fosslight/fosslight_dependency_scanner/issues?q=is%3Apr+author%3AYongGoose)
-  - Refactor existing `tox test` to pytest [#225](https://github.com/fosslight/fosslight_dependency_scanner/pull/225)
-  - Change `SCANOSS Invocation Method` from Command Line to Library Function [#178](https://github.com/fosslight/fosslight_source_scanner/pull/178)
+- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j/issues?q=is%3Apr+author%3AYongGoose)
+  - PgVectorEmbeddingStore supports `fulltext` & `hybrid` search [#4288](https://github.com/langchain4j/langchain4j/pull/4288)
+  - Improve `Chat Memory Storage Logic` for Augmented User Messages [#4272](https://github.com/langchain4j/langchain4j/pull/4272)
  
 ## Recent blog posts
 - [Centralized POM Configuration Management with kotlin-pom-gradle](https://dev.to/gradle-community/centralized-pom-configuration-management-with-kotlin-pom-gradle-1kap)
@@ -42,9 +40,9 @@ He is also interested in distributed transactions, especially their implementati
 - [내가 JUnit5에 병렬화를 도입한 이야기 - 클래스 단위](https://solution-is-here.tistory.com/230)
 
 ## Recent Linkedin posts
+- [JVM에서 AI 애플리케이션을 구축하다 - langchain4j](https://www.linkedin.com/posts/yongjunh_langchain4j-langchain4j-activity-7410240077400043520-Y9Zq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEdFti4BPwqNFACvr6oVR_xL4IxZGLBhfNo)
 - [내 블로그가 코틀린 공식 블로그에?](https://www.linkedin.com/posts/yongjunh_gsoc-googlesummerofcode-kotlin-activity-7396529892110188544-rt83?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEdFti4BPwqNFACvr6oVR_xL4IxZGLBhfNo)
 - [Spring Framework에 기여한 이야기](https://www.linkedin.com/posts/yongjunh_reject-effectively-private-handler-methods-activity-7382958948506718208-Rbtn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEdFti4BPwqNFACvr6oVR_xL4IxZGLBhfNo)
 
 ## Contact
 - yongjunh@apache.org
-- [Let's have a virtual coffee ☕](https://calendly.com/dev-yongjunh)
