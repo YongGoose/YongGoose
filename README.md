@@ -39,10 +39,5 @@ Currently, his focus is on building `AI-powered` tools to enhance productivity. 
 - [내가 JUnit5에 병렬화를 도입한 이야기 - 메서드 단위](https://solution-is-here.tistory.com/231)
 - [내가 JUnit5에 병렬화를 도입한 이야기 - 클래스 단위](https://solution-is-here.tistory.com/230)
 
-## Recent Linkedin posts
-- [JVM에서 AI 애플리케이션을 구축하다 - langchain4j](https://www.linkedin.com/posts/yongjunh_langchain4j-langchain4j-activity-7410240077400043520-Y9Zq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEdFti4BPwqNFACvr6oVR_xL4IxZGLBhfNo)
-- [내 블로그가 코틀린 공식 블로그에?](https://www.linkedin.com/posts/yongjunh_gsoc-googlesummerofcode-kotlin-activity-7396529892110188544-rt83?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEdFti4BPwqNFACvr6oVR_xL4IxZGLBhfNo)
-- [Spring Framework에 기여한 이야기](https://www.linkedin.com/posts/yongjunh_reject-effectively-private-handler-methods-activity-7382958948506718208-Rbtn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEdFti4BPwqNFACvr6oVR_xL4IxZGLBhfNo)
-
 ## Contact
 - yongjunh@apache.org
