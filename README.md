@@ -1,37 +1,32 @@
-## A developer passionate about learning, sharing, and building impactful software.
+## Somewhere between AI and the JVM
 
-Yongjun Hong is a backend engineer at `NAVER WEBTOON` and an open-source contributor to `JUnit5`, `spring-projects`, `naver/fixture-monkey`, and more. He is a committer for apache/seata and a GSoC '25 contributor for the Kotlin & Gradle project.
+I'm Yongjun Hong, a committer for Apache Seata and a backend engineer at NAVER WEBTOON.
 
-Currently, his focus is on building `AI-powered` tools to enhance productivity. He is actively exploring Langchain4j and is dedicated to leveraging LLM integration to create high-quality applications.
+In JUnit I added parallel execution to the Vintage engine, and I've made a few changes to Spring Boot and Spring Framework. I was also a GSoC '25 contributor for the Kotlin & Gradle project, and I maintain the Batch Control plugin for Jenkins.
+
+I write about some of these on my blog. Lately I've been building AI tools for developers.
+
+## Projects
+- [Batch Control](https://plugins.jenkins.io/batch-control/) ([source](https://github.com/jenkinsci/batch-control-plugin)): a Jenkins plugin that requires approval for every run and keeps an audit trail of every change.
+- [kotlin-pom-gradle](https://github.com/YongGoose/Maven-Central-utility-plugins-for-Gradle): a Gradle plugin for error-free publishing to Maven Central (GSoC '25).
 
 ## Open Source Contributions
-- [JUnit Framework](https://github.com/junit-team/junit5/issues?q=is%3Apr+is%3Aopen+author%3AYongGoose)
-  - Introduce feature flag for auto-closing `AutoCloseable` in Jupiter's `ExtensionContext.Store` [#4452](https://github.com/junit-team/junit5/pull/4452)
-  - Provide `mechanism` for managing resources across engines and executions [#4281](https://github.com/junit-team/junit5/pull/4281)
-  - Implement `Parallel Method Execution` in JUnit-Vintage engine [#4242](https://github.com/junit-team/junit5/pull/4242)
-  - Support `parallelization` in Junit-Vintage-engine [#4135](https://github.com/junit-team/junit5/pull/4135)
-  - Implement `include` and `exclude` filtering when calling registerAutoDetectedExtensions [#4120](https://github.com/junit-team/junit5/pull/4120)
-  - Add `include matching` on ClassNamePatternFilterUtils [#4115](https://github.com/junit-team/junit5/pull/4115)
-- [spring-boot](https://github.com/spring-projects/spring-boot/issues?q=is%3Apr+author%3AYongGoose)
-  - Add Fail fast `mechanism` when both management `base path` and `endpoint mapping` are set to `/` [#45251](https://github.com/spring-projects/spring-boot/pull/45251)
-  - Ensure `DefaultErrorAttributes` adds JSON serialization safe errors [#43330](https://github.com/spring-projects/spring-boot/pull/43330)
-- [spring-framework](https://github.com/spring-projects/spring-framework/issues?q=is%3Apr+is%3Aopen+author%3AYongGoose)
-  - Fall back to `JDK Dynamic proxy` if `CGLIB proxy` creation fails [#35344](https://github.com/spring-projects/spring-framework/pull/35344)
-  - Reject effectively `private handler methods` on `CGLIB proxied controllers` [#35352](https://github.com/spring-projects/spring-framework/pull/35352) 
-- [apache-seata](https://github.com/apache/incubator-seata/issues?q=is%3Apr+is%3Aopen+author%3AYongGoose)
-  - Add `ChannelEventListener` support to prevent memory leaks [#7337](https://github.com/apache/incubator-seata/pull/7337)
-  - Enforce account `initialization` and disable default credentials [#7261](https://github.com/apache/incubator-seata/pull/7261)
-  - Use shared `EventLoop` for TM and RM clients to reduce thread overhead and improve performance [#7179](https://github.com/apache/incubator-seata/pull/7179)
-  - Implement scheduled handling for `end status` transaction [#7133](https://github.com/apache/incubator-seata/pull/7133)
-- [naver/fixture-monkey](https://github.com/naver/fixture-monkey/issues?q=is%3Apr+is%3Aopen+author%3AYongGoose)
-  - Implement `Random Selection` of Register Operations When Not Using selectName [#1108](https://github.com/naver/fixture-monkey/pull/1108)
-  - Implement a `Matcher interface` to manage ArbitraryBuilders with a single variable [#1062](https://github.com/naver/fixture-monkey/pull/1062)
-  - Add `register` and `select` ArbitraryBuilder by name [#1036](https://github.com/naver/fixture-monkey/pull/1036)
-- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j/issues?q=is%3Apr+author%3AYongGoose)
-  - PgVectorEmbeddingStore supports `fulltext` & `hybrid` search [#4288](https://github.com/langchain4j/langchain4j/pull/4288)
-  - Improve `Chat Memory Storage Logic` for Augmented User Messages [#4272](https://github.com/langchain4j/langchain4j/pull/4272)
- 
-## Recent blog posts
+- **Apache Seata**: committer, [23 merged PRs](https://github.com/apache/incubator-seata/pulls?q=is%3Apr+is%3Amerged+author%3AYongGoose)
+  - Use a shared `EventLoop` for TM and RM clients to reduce thread overhead [#7179](https://github.com/apache/incubator-seata/pull/7179)
+  - Enforce account initialization and disable default credentials [#7261](https://github.com/apache/incubator-seata/pull/7261)
+- **JUnit**: [7 merged PRs](https://github.com/junit-team/junit-framework/pulls?q=is%3Apr+is%3Amerged+author%3AYongGoose)
+  - Parallel class and method execution in the JUnit Vintage engine [#4135](https://github.com/junit-team/junit-framework/pull/4135), [#4242](https://github.com/junit-team/junit-framework/pull/4242)
+  - Provide a mechanism for managing resources across engines and executions [#4281](https://github.com/junit-team/junit-framework/pull/4281)
+- **Spring Boot**: [2 merged PRs](https://github.com/spring-projects/spring-boot/commits?author=YongGoose)
+  - Fail fast when both the management base path and an endpoint mapping are set to `/` [#45251](https://github.com/spring-projects/spring-boot/pull/45251)
+- **Spring Framework**
+  - Reject effectively private handler methods on CGLIB-proxied controllers [#35352](https://github.com/spring-projects/spring-framework/pull/35352)
+- **LangChain4j**: [3 merged PRs](https://github.com/langchain4j/langchain4j/pulls?q=is%3Apr+is%3Amerged+author%3AYongGoose)
+  - `PgVectorEmbeddingStore` supports full-text and hybrid search [#4288](https://github.com/langchain4j/langchain4j/pull/4288)
+- **Fixture Monkey**: [4 merged PRs](https://github.com/naver/fixture-monkey/pulls?q=is%3Apr+is%3Amerged+author%3AYongGoose)
+  - Register and select an `ArbitraryBuilder` by name [#1036](https://github.com/naver/fixture-monkey/pull/1036)
+
+## Writing
 - [Centralized POM Configuration Management with kotlin-pom-gradle](https://dev.to/gradle-community/centralized-pom-configuration-management-with-kotlin-pom-gradle-1kap)
 - [Spring 관점에서 보는 Seata의 내부 통신](https://solution-is-here.tistory.com/236)
 - [Apache Seata란?](https://solution-is-here.tistory.com/235)
@@ -39,5 +34,5 @@ Currently, his focus is on building `AI-powered` tools to enhance productivity. 
 - [내가 JUnit5에 병렬화를 도입한 이야기 - 메서드 단위](https://solution-is-here.tistory.com/231)
 - [내가 JUnit5에 병렬화를 도입한 이야기 - 클래스 단위](https://solution-is-here.tistory.com/230)
 
-## Contact
-- yongjunh@apache.org
+## Get in touch
+If you've got something fun to talk about in AI, email me at [yongjunh@apache.org](mailto:yongjunh@apache.org).
