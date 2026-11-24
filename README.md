@@ -27,6 +27,7 @@ I write about some of these on my blog. Lately I've been building AI tools for d
 - [kotlin-pom-gradle](https://github.com/YongGoose/Maven-Central-utility-plugins-for-Gradle): a Gradle plugin for error-free publishing to Maven Central (GSoC '25).
 
 ## Writing
+- [Introducing the Batch Control Plugin](https://www.jenkins.io/blog/2026/11/24/introducing-batch-control-plugin/)
 - [Centralized POM Configuration Management with kotlin-pom-gradle](https://dev.to/gradle-community/centralized-pom-configuration-management-with-kotlin-pom-gradle-1kap)
 - [Spring 관점에서 보는 Seata의 내부 통신](https://solution-is-here.tistory.com/236)
 - [Apache Seata란?](https://solution-is-here.tistory.com/235)
